@@ -1,0 +1,6 @@
+{"name": "ramba", "detail": "snacks", "price": "20", "seller": "sagar"}
+{"name": "coke", "detail": "drinks", "price": "60", "seller": "sagar"}
+{"name": "guitar", "detail": "instrument", "price": "15000", "seller": "hari"}
+{"name": "ukelele", "detail": "instrument", "price": "8000", "seller": "sagar"}
+{"name": "laptop", "detail": "electronics", "price": "150000", "seller": "sagar"}
+{"name": "ufo", "detail": "spaceship", "price": "100000", "seller": "hari"}
